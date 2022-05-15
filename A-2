@@ -1,4 +1,3 @@
-#QUESTION_2
 print("QUESTION_2:",end='\n')
 Name='ABC'
 SID=21102030
